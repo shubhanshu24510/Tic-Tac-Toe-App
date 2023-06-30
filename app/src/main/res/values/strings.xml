@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tic Tac Toe Game</string>
+    <string name="tic_tac_toe_game">Tic Tac Toe Game</string>
+    <string name="button_to_perform_a_specific_action">Button to perform a specific action</string>
+    <string name="button_to_perform_a_specific_action_1">Button to perform a specific action_1</string>
+    <string name="button_to_perform_a_specific_action_2">Button to perform a specific action_2</string>
+    <string name="button_to_perform_a_specific_action_3">Button to perform a specific action_3</string>
+    <string name="button_to_perform_a_specific_action_4">Button to perform a specific action_4</string>
+    <string name="button_to_perform_a_specific_action_5">Button to perform a specific action_5</string>
+    <string name="button_to_perform_a_specific_action_6">Button to perform a specific action_6</string>
+    <string name="button_to_perform_a_specific_action_7">Button to perform a specific action_7</string>
+    <string name="button_to_perform_a_specific_action_8">Button to perform a specific action_8</string>
+</resources>
